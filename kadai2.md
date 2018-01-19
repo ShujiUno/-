@@ -45,3 +45,4 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 ![原画像](https://github.com/ShujiUno/kadai/blob/master/image/kadai2-4.png)  
 図4 8階調画像  
 
+生成した画像を見るとわかるように，階調数が上がるごとに元のモノクロ画像に近づいている．  
