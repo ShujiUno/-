@@ -11,3 +11,20 @@ imagesc(ORG); colormap('gray'); colorbar;% 画像表示
 
 ![原画像](https://github.com/ShujiUno/kadai/blob/master/image/kadai10-1.png)  
 図1 原画像  
+
+
+
+
+![原画像](https://github.com/ShujiUno/kadai/blob/master/image/kadai10-2.png)  
+図2 ブレウィット法によるエッジ抽出  
+
+
+
+![原画像](https://github.com/ShujiUno/kadai/blob/master/image/kadai10-3.png)  
+図3 ソベル法によるエッジ抽出  
+
+
+
+
+![原画像](https://github.com/ShujiUno/kadai/blob/master/image/kadai10-4.png)  
+図4　キャニー法によるエッジ抽出
